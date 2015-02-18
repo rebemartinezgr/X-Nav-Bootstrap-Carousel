@@ -1,0 +1,17 @@
+#cabecera{
+	padding: 40px;
+	margin-left: 50px;
+	background-color: orange;
+}
+
+#noticias{
+
+	padding: 1px;
+	color: red;
+}
+
+.label-default{
+	background-color: red;
+	margin-left: 5px;
+}
+
